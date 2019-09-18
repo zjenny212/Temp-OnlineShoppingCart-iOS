@@ -3,18 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>SchemeUserState</key>
-	<dict/>
-	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>18BD3E922332C53D007AEB8C</key>
+		<key>OnlineShoppingCart.xcscheme_^#shared#^_</key>
 		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>18BD3EAD2332C53E007AEB8C</key>
-		<dict>
-			<key>primary</key>
-			<true/>
+			<key>orderHint</key>
+			<integer>2</integer>
 		</dict>
 	</dict>
 </dict>
