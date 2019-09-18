@@ -7,7 +7,20 @@
 		<key>OnlineShoppingCart.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>18BD3E922332C53D007AEB8C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>18BD3EAD2332C53E007AEB8C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

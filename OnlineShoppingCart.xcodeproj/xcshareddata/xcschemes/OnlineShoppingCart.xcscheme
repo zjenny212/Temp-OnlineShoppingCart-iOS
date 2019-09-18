@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1100"
+   LastUpgradeVersion = "1030"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7A1AC1118326872CB228F39623B000BF"
-               BuildableName = "Pods_OnlineShoppingCartTests.framework"
-               BlueprintName = "Pods-OnlineShoppingCartTests"
-               ReferencedContainer = "container:Pods.xcodeproj">
+               BlueprintIdentifier = "18BD3E922332C53D007AEB8C"
+               BuildableName = "OnlineShoppingCart.app"
+               BlueprintName = "OnlineShoppingCart"
+               ReferencedContainer = "container:OnlineShoppingCart.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,7 +28,26 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "18BD3EAD2332C53E007AEB8C"
+               BuildableName = "OnlineShoppingCartTests.xctest"
+               BlueprintName = "OnlineShoppingCartTests"
+               ReferencedContainer = "container:OnlineShoppingCart.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "18BD3E922332C53D007AEB8C"
+            BuildableName = "OnlineShoppingCart.app"
+            BlueprintName = "OnlineShoppingCart"
+            ReferencedContainer = "container:OnlineShoppingCart.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -42,15 +61,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <MacroExpansion>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7A1AC1118326872CB228F39623B000BF"
-            BuildableName = "Pods_OnlineShoppingCartTests.framework"
-            BlueprintName = "Pods-OnlineShoppingCartTests"
-            ReferencedContainer = "container:Pods.xcodeproj">
+            BlueprintIdentifier = "18BD3E922332C53D007AEB8C"
+            BuildableName = "OnlineShoppingCart.app"
+            BlueprintName = "OnlineShoppingCart"
+            ReferencedContainer = "container:OnlineShoppingCart.xcodeproj">
          </BuildableReference>
-      </MacroExpansion>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -60,6 +80,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "18BD3E922332C53D007AEB8C"
+            BuildableName = "OnlineShoppingCart.app"
+            BlueprintName = "OnlineShoppingCart"
+            ReferencedContainer = "container:OnlineShoppingCart.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
